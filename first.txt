@@ -1,0 +1,3 @@
+version 4 of my project
+* commit[0]
+*After creating static/text.txt
